@@ -1,0 +1,9 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\bin\Debug\Test_IHSMarkit.exe.config
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\bin\Debug\Test_IHSMarkit.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\bin\Debug\Test_IHSMarkit.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.csproj.GenerateResource.Cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\Test_IHSMarkit\Test_IHSMarkit\obj\Debug\Test_IHSMarkit.Resource.resources

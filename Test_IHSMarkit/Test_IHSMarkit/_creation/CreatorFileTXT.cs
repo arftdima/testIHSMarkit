@@ -33,17 +33,17 @@ namespace Test_IHSMarkit._creation
 
                 listPathsFiles = searchEngine.GetAllWays(path);
 
-                dictionary.AddDate(listPathsFiles, false, Encoding.Default, Int32.Parse(Resource.numberThreads));
-                dictionary.WriteToFile(outpath, false, Encoding.Default);
+                dictionary.AddDate(listPathsFiles, false, Encoding.UTF8, Int32.Parse(Resource.numberThreads));
+                dictionary.WriteToFile(outpath, false, Encoding.UTF8);
             }
             else //mode == Resource.modeHTTP
             {
                 arf_FileUploader fileUploader = new arf_FileUploader();
 
-                listPathsFiles = fileUploader.Download(path, Encoding.Default, Int32.Parse(Resource.numberThreads));
+                listPathsFiles = fileUploader.Download(path, Encoding.UTF8, Int32.Parse(Resource.numberThreads));
 
-                dictionary.AddDate(listPathsFiles, true, Encoding.Default, Int32.Parse(Resource.numberThreads));
-                dictionary.WriteToFile(outpath, false, Encoding.Default);
+                dictionary.AddDate(listPathsFiles, true, Encoding.UTF8, Int32.Parse(Resource.numberThreads));
+                dictionary.WriteToFile(outpath, false, Encoding.UTF8);
             }
         }
     }
